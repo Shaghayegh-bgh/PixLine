@@ -1,7 +1,5 @@
 # PixLine
 
-# PixLine
-
 A simple project for analyzing pixel values along a line in grayscale images using **NumPy, OpenCV, and Matplotlib**, with **k-means clustering** implemented from scratch.
 
 ---
